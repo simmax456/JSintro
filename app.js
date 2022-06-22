@@ -10,5 +10,5 @@ console.log(fullName);
 console.log(height);
 console.log(country);
 
-alert(fullName + " is " + height + " tall and lives in " + country + ".")
-alert("Please check the console.")
+alert(`${fullName} \n${height} \n${country}`)
+alert("Result in console too.")
